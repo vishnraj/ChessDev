@@ -1,2 +1,8 @@
 This project was part of an earlier project that I was working on to write a simple chess AI, that I now wish to advance
-More to come, but currently just run menu.py to run
+
+Usage:
+More to come, but currently just run menu.py to play:
+1.) Select whether you want to play with another player or CPU
+2.) Move pieces by clicking, holding, and dragging mouse a legal space for the piece:
+    - Note, there is no visual to indicate dragging
+    - The game will prevent illegal moves, but will currently not explain why a move was illegal
